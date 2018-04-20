@@ -8,5 +8,7 @@ Inputs:
 Outputs:
 
 • U (Upper triangular matrix)
+
 • L (Lower triangular matrix)
+
 • P (Pivot matrix)
