@@ -4,6 +4,7 @@ values "y" with respect to "x" over the interval described by the two vectors.
 Inputs:
 
 • x (An evenly spaced vector describing the points of the independant variable that you are integrating with respect to)
+
 • y (The dependant variable values that result from the x values)
 
 Outputs:
