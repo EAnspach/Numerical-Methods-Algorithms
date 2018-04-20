@@ -8,4 +8,5 @@ Inputs:
 • y (The dependant variable values that result from the x values)
 
 Outputs:
+
 • I (The integral over the input interval)
